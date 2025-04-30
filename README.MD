@@ -43,7 +43,11 @@ This tool is especially useful for:
 
 ### Linux (Debian/Ubuntu)
 
-Coming soon: `.deb` packages and APT repo
+Releases: `.deb` package and APT repo (in future)
+
+### Windows
+
+Releases: `.exe` package.
 
 ### macOS (via Homebrew)
 
